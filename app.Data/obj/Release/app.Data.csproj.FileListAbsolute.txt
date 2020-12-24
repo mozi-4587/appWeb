@@ -1,0 +1,1 @@
+E:\appWebservice\app.Data\obj\Release\ResolveAssemblyReference.cache

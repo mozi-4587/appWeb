@@ -1,0 +1,7 @@
+E:\web_work\OfficeBus\OfficeBus.Data\bin\Release\OfficeBus.Data.dll
+E:\web_work\OfficeBus\OfficeBus.Data\bin\Release\OfficeBus.Data.pdb
+E:\web_work\OfficeBus\OfficeBus.Data\bin\Release\OfficeBus.Entity.dll
+E:\web_work\OfficeBus\OfficeBus.Data\bin\Release\OfficeBus.Entity.pdb
+E:\web_work\OfficeBus\OfficeBus.Data\obj\Release\ResolveAssemblyReference.cache
+E:\web_work\OfficeBus\OfficeBus.Data\obj\Release\OfficeBus.Data.dll
+E:\web_work\OfficeBus\OfficeBus.Data\obj\Release\OfficeBus.Data.pdb

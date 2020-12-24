@@ -1,0 +1,16 @@
+C:\getApp\getApp.Common\bin\Debug\getApp.Common.dll
+C:\getApp\getApp.Common\bin\Debug\getApp.Common.pdb
+C:\getApp\getApp.Common\bin\Debug\Newtonsoft.Json.pdb
+C:\getApp\getApp.Common\bin\Debug\Newtonsoft.Json.xml
+C:\getApp\getApp.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\getApp\getApp.Common\obj\Debug\getApp.Common.dll
+C:\getApp\getApp.Common\obj\Debug\getApp.Common.pdb
+C:\getApp\bin\Debug\getApp.Common.dll
+C:\getApp\bin\Debug\getApp.Common.pdb
+C:\getApp\WebSite\bin\getApp.Common.dll
+C:\getApp\WebSite\bin\getApp.Common.pdb
+E:\getApp\WebSite\bin\getApp.Common.dll
+E:\getApp\WebSite\bin\getApp.Common.pdb
+E:\getApp\getApp.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\getApp\getApp.Common\obj\Debug\getApp.Common.dll
+E:\getApp\getApp.Common\obj\Debug\getApp.Common.pdb

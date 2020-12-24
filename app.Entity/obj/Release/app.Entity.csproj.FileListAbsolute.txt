@@ -1,0 +1,5 @@
+E:\appWebservice\app.Entity\bin\Release\app.Entity.dll
+E:\appWebservice\app.Entity\bin\Release\app.Entity.pdb
+E:\appWebservice\app.Entity\obj\Release\ResolveAssemblyReference.cache
+E:\appWebservice\app.Entity\obj\Release\app.Entity.dll
+E:\appWebservice\app.Entity\obj\Release\app.Entity.pdb

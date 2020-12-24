@@ -1,0 +1,5 @@
+E:\appWebservice\appWebSite\bin\app.Book.dll
+E:\appWebservice\appWebSite\bin\app.Book.pdb
+E:\appWebservice\app.Book\obj\Debug\app.Books.csprojResolveAssemblyReference.cache
+E:\appWebservice\app.Book\obj\Debug\app.Book.dll
+E:\appWebservice\app.Book\obj\Debug\app.Book.pdb

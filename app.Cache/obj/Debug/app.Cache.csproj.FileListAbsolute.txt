@@ -1,0 +1,13 @@
+F:\appWebservice\appWebSite\bin\app.Cache.dll
+F:\appWebservice\appWebSite\bin\app.Cache.pdb
+F:\appWebservice\app.Cache\obj\Debug\app.Cache.dll
+F:\appWebservice\app.Cache\obj\Debug\app.Cache.pdb
+I:\appWebservice\appWebSite\bin\app.Cache.dll
+I:\appWebservice\appWebSite\bin\app.Cache.pdb
+I:\appWebservice\app.Cache\obj\Debug\app.Cache.dll
+I:\appWebservice\app.Cache\obj\Debug\app.Cache.pdb
+E:\appWebservice\appWebSite\bin\app.Cache.dll
+E:\appWebservice\appWebSite\bin\app.Cache.pdb
+E:\appWebservice\app.Cache\obj\Debug\app.Cache.dll
+E:\appWebservice\app.Cache\obj\Debug\app.Cache.pdb
+E:\appWebservice\app.Cache\obj\Debug\app.Cache.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+\\T420\docpage\ERMS\ERMS.Common\obj\Debug\ResolveAssemblyReference.cache
+\\T420\docpage\ERMS\ERMS.Common\bin\Debug\ERMS.Common.dll
+\\T420\docpage\ERMS\ERMS.Common\bin\Debug\ERMS.Common.pdb
+\\T420\docpage\ERMS\ERMS.Common\obj\Debug\ERMS.Common.dll
+\\T420\docpage\ERMS\ERMS.Common\obj\Debug\ERMS.Common.pdb
+\\T420\docpage\ERMS\ERMS.Common\bin\Debug\Newtonsoft.Json.dll
+\\T420\docpage\ERMS\ERMS.Common\bin\Debug\Newtonsoft.Json.pdb
+\\T420\docpage\ERMS\ERMS.Common\bin\Debug\Newtonsoft.Json.xml
+C:\ERMS\ERMS.Common\bin\Debug\ERMS.Common.dll
+C:\ERMS\ERMS.Common\bin\Debug\ERMS.Common.pdb
+C:\ERMS\ERMS.Common\bin\Debug\Newtonsoft.Json.dll
+C:\ERMS\ERMS.Common\bin\Debug\Newtonsoft.Json.pdb
+C:\ERMS\ERMS.Common\bin\Debug\Newtonsoft.Json.xml
+C:\ERMS\ERMS.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\ERMS\ERMS.Common\obj\Debug\ERMS.Common.dll
+C:\ERMS\ERMS.Common\obj\Debug\ERMS.Common.pdb

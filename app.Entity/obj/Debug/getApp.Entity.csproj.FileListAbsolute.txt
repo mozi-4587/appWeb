@@ -1,0 +1,10 @@
+C:\getApp\WebSite\bin\getApp.Entity.dll
+C:\getApp\WebSite\bin\getApp.Entity.pdb
+C:\getApp\getApp.Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\getApp\getApp.Entity\obj\Debug\getApp.Entity.dll
+C:\getApp\getApp.Entity\obj\Debug\getApp.Entity.pdb
+E:\getApp\WebSite\bin\getApp.Entity.dll
+E:\getApp\WebSite\bin\getApp.Entity.pdb
+E:\getApp\getApp.Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\getApp\getApp.Entity\obj\Debug\getApp.Entity.dll
+E:\getApp\getApp.Entity\obj\Debug\getApp.Entity.pdb

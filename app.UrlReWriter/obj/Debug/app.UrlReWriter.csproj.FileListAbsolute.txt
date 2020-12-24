@@ -1,0 +1,4 @@
+E:\appWebservice\appWebSite\bin\app.UrlReWriter.dll
+E:\appWebservice\appWebSite\bin\app.UrlReWriter.pdb
+E:\appWebservice\app.UrlReWriter\obj\Debug\app.UrlReWriter.dll
+E:\appWebservice\app.UrlReWriter\obj\Debug\app.UrlReWriter.pdb

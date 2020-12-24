@@ -1,0 +1,10 @@
+C:\getApp\WebSite\bin\getApp.Data.dll
+C:\getApp\WebSite\bin\getApp.Data.pdb
+C:\getApp\getApp.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\getApp\getApp.Data\obj\Debug\getApp.Data.dll
+C:\getApp\getApp.Data\obj\Debug\getApp.Data.pdb
+E:\getApp\WebSite\bin\getApp.Data.dll
+E:\getApp\WebSite\bin\getApp.Data.pdb
+E:\getApp\getApp.Data\obj\Debug\ResolveAssemblyReference.cache
+E:\getApp\getApp.Data\obj\Debug\getApp.Data.dll
+E:\getApp\getApp.Data\obj\Debug\getApp.Data.pdb
